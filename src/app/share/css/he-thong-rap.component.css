@@ -1,0 +1,48 @@
+.he-Thong-Rap {
+  margin: 0 100px;
+  background: white;
+  box-shadow: 0 0 10px 0 #00000017;
+}
+
+.he-Thong-Rap .logoLichChieu {
+  min-height: 650px;
+  border: 1px solid #dee2e6;
+}
+
+.he-Thong-Rap .logoLichChieu li .loGoLichChieu_items {
+  padding: 10 14px;
+  border-radius: 0px;
+  opacity: 0.5;
+  transition: all 0.1s;
+  position: relative;
+  border: none;
+}
+
+.he-Thong-Rap .logoLichChieu li .loGoLichChieu_items::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  width: calc(100% - 40px);
+  transform: translateX(-50%);
+  border-bottom: 2px solid #fff;
+  border-color: rgba(238, 238, 238, 0.88);
+}
+
+.he-Thong-Rap .logoLichChieu li .loGoLichChieu_items:hover {
+  opacity: 1;
+  transition: all 0.3s;
+  border: none;
+}
+
+.he-Thong-Rap .logoLichChieu li .loGoLichChieu_items.active {
+  opacity: 1;
+  transition: all 0.1s;
+  border: none;
+}
+
+.he-Thong-Rap .logoLichChieu li .loGoLichChieu_items img {
+  width: 90px;
+  position: relative;
+}
+/*# sourceMappingURL=he-thong-rap.component.css.map */

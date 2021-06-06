@@ -1,1 +1,7 @@
-# Team11-Movie-Angular
+# TEAM 11 - MOVIE ANGULAR 
+ 
+- DO MINH LONG
+
+- VUONG QUOC HOANG THAI
+
+- TRINH NGOC PHU

@@ -1,0 +1,8 @@
+::ng-deep #modalThongTinTaiKhoan .modal-dialog {
+  max-width: 80% !important;
+}
+
+::ng-deep #modalThongTinTaiKhoan .border-left {
+  font-size: 12px;
+}
+/*# sourceMappingURL=modal-quan-ly-thanh-vien.component.css.map */
