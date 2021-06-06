@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AACE,SADO,CAAC,sBAAsB,CAC9B,aAAa,CAAC;EACZ,SAAS,EAAE,cAAc;CAC1B;;AAHH,AAIE,SAJO,CAAC,sBAAsB,CAI9B,YAAY,CAAC;EACX,SAAS,EAAE,IAAI;CAChB",
-    "sources": [
-        "../modal-quan-ly-thanh-vien/modal-quan-ly-thanh-vien.component.scss"
-    ],
-    "names": [],
-    "file": "modal-quan-ly-thanh-vien.component.css"
-}
